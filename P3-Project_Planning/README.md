@@ -18,4 +18,5 @@ Include a link to your public Trello board. https://trello.com/b/xchiE6wX/liftof
 
 Include a link to your project on GitHub.
 
-https://github.com/S-Bujak/cocktail-library
+
+https://github.com/ariel-mitchell/cocktail-library
